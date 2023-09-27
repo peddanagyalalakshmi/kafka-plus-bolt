@@ -1,3 +1,3 @@
 # kafka-plus-bolt
 
-jhdsnjn
+Sample kafka bolt
